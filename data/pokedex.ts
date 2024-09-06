@@ -6491,9 +6491,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	chimecho: {
 		num: 358,
 		name: "Chimecho",
-		types: ["Psychic"],
-		baseStats: {hp: 75, atk: 50, def: 80, spa: 95, spd: 90, spe: 65},
-		abilities: {0: "Levitate"},
+		types: ["Psychic", "Fairy"],
+		baseStats: {hp: 90, atk: 50, def: 100, spa: 80, spd: 120, spe: 75},
+		abilities: {0: "Levitate", H: "Healer"},
 		heightm: 0.6,
 		weightkg: 1,
 		color: "Blue",
