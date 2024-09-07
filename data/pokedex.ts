@@ -5509,7 +5509,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	exploud: {
 		num: 295,
 		name: "Exploud",
-		types: ["Normal"],
+		types: ["Normal", "Sound"],
 		baseStats: {hp: 104, atk: 91, def: 63, spa: 91, spd: 73, spe: 68},
 		abilities: {0: "Soundproof", H: "Scrappy"},
 		heightm: 1.5,
