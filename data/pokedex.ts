@@ -6510,7 +6510,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		forme: "Mega",
 		types: ["Fairy", "Steel"],
 		baseStats: {hp: 90, atk: 50, def: 115, spa: 90, spd: 130, spe: 85},
-		abilities: {0: "Misty Terrain"},
+		abilities: {0: "Misty Surge"},
 		heightm: 1,
 		weightkg: 1.7,
 		color: "Blue",
