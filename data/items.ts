@@ -905,6 +905,20 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		gen: 5,
 		isNonstandard: "Past",
 	},
+	chimelite: {
+		name: "Chimelite",
+		spritenum: 582,
+		megaStone: "Chimecho-Mega",
+		megaEvolves: "Chimecho",
+		itemUser: ["Chimecho"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 2000,
+		gen: 6,
+		isNonstandard: "Past",
+	},
 	chippedpot: {
 		name: "Chipped Pot",
 		spritenum: 720,
