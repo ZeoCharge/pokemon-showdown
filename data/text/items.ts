@@ -258,6 +258,10 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 		name: "Chill Drive",
 		shortDesc: "Holder's Techno Blast is Ice type.",
 	},
+	chimelite: {
+		name: "Chimelite",
+		shortDesc: "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
+	},
 	chippedpot: {
 		name: "Chipped Pot",
 		shortDesc: "Evolves Sinistea-Antique into Polteageist-Antique when used.",
