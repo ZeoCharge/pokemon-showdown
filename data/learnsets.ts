@@ -58694,6 +58694,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	krookodile: {
 		learnset: {
+			suckerpunch: ["9M","8M","7M","6M","5M"],
 			aerialace: ["9M", "7M", "6M", "5M"],
 			aquatail: ["7T", "6T", "5T"],
 			assurance: ["8M", "7L16", "6L16", "5L16"],

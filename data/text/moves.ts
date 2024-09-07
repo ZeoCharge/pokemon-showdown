@@ -7524,8 +7524,8 @@ export const MovesText: {[id: IDEntry]: MoveText} = {
 	},
 	zapcannon: {
 		name: "Zap Cannon",
-		desc: "Has a 100% chance to paralyze the target.",
-		shortDesc: "100% chance to paralyze the target.",
+		desc: "Has 33% recoil. Has a 50% chance to paralyze the target.",
+		shortDesc: "Has 33% recoil.",
 	},
 	zenheadbutt: {
 		name: "Zen Headbutt",
