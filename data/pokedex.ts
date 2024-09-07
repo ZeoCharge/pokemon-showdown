@@ -1096,7 +1096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	zubat: {
 		num: 41,
 		name: "Zubat",
-		types: ["Poison", "Flying"],
+		types: ["Sound", "Flying"],
 		baseStats: {hp: 40, atk: 45, def: 35, spa: 30, spd: 40, spe: 55},
 		abilities: {0: "Inner Focus", H: "Infiltrator"},
 		heightm: 0.8,
@@ -1108,7 +1108,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	golbat: {
 		num: 42,
 		name: "Golbat",
-		types: ["Poison", "Flying"],
+		types: ["Sound", "Flying"],
 		baseStats: {hp: 75, atk: 80, def: 70, spa: 65, spd: 75, spe: 90},
 		abilities: {0: "Inner Focus", H: "Infiltrator"},
 		heightm: 1.6,
@@ -3501,7 +3501,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	noctowl: {
 		num: 164,
 		name: "Noctowl",
-		types: ["Normal", "Flying"],
+		types: ["Sound", "Flying"],
 		baseStats: {hp: 100, atk: 50, def: 50, spa: 86, spd: 96, spe: 70},
 		abilities: {0: "Insomnia", 1: "Keen Eye", H: "Tinted Lens"},
 		heightm: 1.6,
@@ -7871,7 +7871,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	chatot: {
 		num: 441,
 		name: "Chatot",
-		types: ["Normal", "Flying"],
+		types: ["Sound", "Flying"],
 		baseStats: {hp: 76, atk: 65, def: 45, spa: 92, spd: 42, spe: 91},
 		abilities: {0: "Keen Eye", 1: "Tangled Feet", H: "Big Pecks"},
 		heightm: 0.5,
@@ -10755,7 +10755,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	beheeyem: {
 		num: 606,
 		name: "Beheeyem",
-		types: ["Psychic"],
+		types: ["Psychic", "Sound"],
 		baseStats: {hp: 75, atk: 75, def: 75, spa: 125, spd: 95, spe: 40},
 		abilities: {0: "Telepathy", 1: "Synchronize", H: "Analytic"},
 		heightm: 1,
@@ -11430,7 +11430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 648,
 		name: "Meloetta",
 		baseForme: "Aria",
-		types: ["Normal", "Psychic"],
+		types: ["Sound", "Psychic"],
 		gender: "N",
 		baseStats: {hp: 100, atk: 77, def: 77, spa: 128, spd: 128, spe: 90},
 		abilities: {0: "Serene Grace"},
@@ -12687,7 +12687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	noibat: {
 		num: 714,
 		name: "Noibat",
-		types: ["Flying", "Dragon"],
+		types: ["Flying", "Sound"],
 		baseStats: {hp: 40, atk: 30, def: 35, spa: 45, spd: 40, spe: 55},
 		abilities: {0: "Frisk", 1: "Infiltrator", H: "Telepathy"},
 		heightm: 0.5,
@@ -12699,7 +12699,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	noivern: {
 		num: 715,
 		name: "Noivern",
-		types: ["Flying", "Dragon"],
+		types: ["Sound", "Dragon"],
 		baseStats: {hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123},
 		abilities: {0: "Frisk", 1: "Infiltrator", H: "Telepathy"},
 		heightm: 1.5,
