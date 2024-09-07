@@ -915,9 +915,8 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
 			return true;
 		},
-		num: 2000,
+		num: 807,
 		gen: 6,
-		isNonstandard: "Past",
 	},
 	chippedpot: {
 		name: "Chipped Pot",
