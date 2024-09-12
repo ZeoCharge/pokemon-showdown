@@ -918,6 +918,19 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 		num: 807,
 		gen: 6,
 	},
+	breloomite: {
+		name: "Breloomite",
+		spritenum: 613,
+		megaStone: "Breloom-Mega",
+		megaEvolves: "Breloom",
+		itemUser: ["Breloom"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 808,
+		gen: 6,
+	},
 	chippedpot: {
 		name: "Chipped Pot",
 		spritenum: 720,

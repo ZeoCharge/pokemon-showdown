@@ -262,6 +262,10 @@ export const ItemsText: {[id: IDEntry]: ItemText} = {
 		name: "Chimelite",
 		shortDesc: "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
 	},
+	breloomite: {
+		name: "Breloomite",
+		shortDesc: "If held by a Breloom, this item allows it to Mega Evolve in battle.",
+	},
 	chippedpot: {
 		name: "Chipped Pot",
 		shortDesc: "Evolves Sinistea-Antique into Polteageist-Antique when used.",

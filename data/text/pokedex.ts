@@ -1394,6 +1394,9 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	chimechomega: {
 		name: "Chimecho-Mega",
 	},
+	breloomite: {
+		name: "Breloom-Mega",
+	},
 	absol: {
 		name: "Absol",
 	},

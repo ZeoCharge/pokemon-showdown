@@ -36723,6 +36723,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 	},
 	breloom: {
 		learnset: {
+			grassyglide: ["9L51", "7L51", "6L51", "5L51", "4L51", "3L51"],
 			absorb: ["9L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
 			aerialace: ["9M"],
 			attract: ["7M", "6M", "5M", "4M", "3M"],
